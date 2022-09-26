@@ -1,0 +1,11 @@
+.nav-header {
+  height: 80px;
+  align-items: center;
+}
+
+.logo-link {
+  svg{
+    display: block;
+    color: $airbnb-logo;
+  }
+}
