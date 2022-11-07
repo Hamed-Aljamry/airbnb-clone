@@ -6,4 +6,5 @@ end
 
 
 
-#START PART 3 NEXT 4:00
+# PART 3
+# 12:58
